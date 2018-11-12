@@ -16,3 +16,14 @@ C:\Users\DOPFNS\source\repos\InspirationDemo\InspirationDemo\obj\Debug\Inspirati
 C:\Users\DOPFNS\source\repos\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.exe
 C:\Users\DOPFNS\source\repos\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.pdb
 C:\Users\DOPFNS\source\repos\InspirationDemo\InspirationDemo\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\bin\Debug\InspirationDemo.exe.config
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\bin\Debug\InspirationDemo.exe
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\bin\Debug\InspirationDemo.pdb
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.csprojAssemblyReference.cache
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.Form1.resources
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.Properties.Resources.resources
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.csproj.GenerateResource.cache
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.csproj.CoreCompileInputs.cache
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.csproj.CopyComplete
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.exe
+F:\Bunifu\2018\Demos\Github\InspirationDemo\InspirationDemo\obj\Debug\InspirationDemo.pdb

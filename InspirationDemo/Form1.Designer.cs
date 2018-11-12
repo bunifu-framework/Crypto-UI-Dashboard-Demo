@@ -142,7 +142,7 @@
             // 
             // bunifuElipse1
             // 
-            this.bunifuElipse1.ElipseRadius = 35;
+            this.bunifuElipse1.ElipseRadius = 2;
             this.bunifuElipse1.TargetControl = this;
             // 
             // panelHeader
